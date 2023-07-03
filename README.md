@@ -18,4 +18,11 @@
   <p>npm install</p>
 <h5>To start express do by</h5>
 <p>nodemon index.js</p>
-<p>**Make sure your mongod is start and running on localhost port 270</p>
+<p>**Make sure your mongod is start and running on localhost port 27017</p>
+
+<h3>Django</h3>
+<h5>To install dependcies do by</h5>
+<p>pip install -r requirement.txt</p>
+<h5>To start Django server do by</h5>
+<p>python manage.py runserver 0.0.0.0:4444</p>
+
